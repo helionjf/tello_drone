@@ -1,0 +1,14 @@
+command
+takeoff
+delay 5
+up 100
+delay 5
+down 100
+delay 5
+right 100
+delay 5
+left 100
+delay 5
+go 100 200 150 speed 100
+delay 5
+land

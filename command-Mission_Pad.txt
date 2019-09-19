@@ -1,0 +1,18 @@
+command
+delay 4
+mon
+delay 4
+mdirection 0
+delay 4
+takeoff
+delay 4
+go 120 30 100 50 m1
+delay 4
+go 50 -50 50 100 m8
+delay 4
+jump 100 100 50 50 180 m3 m8
+delay 4
+land
+moff
+
+

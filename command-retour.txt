@@ -1,0 +1,16 @@
+command
+delay 4
+takeoff
+delay 4
+cw 90
+delay 4
+up 150
+delay 4
+forward 220
+delay 4
+down 100
+delay 4
+cw 270
+delay 4
+land
+

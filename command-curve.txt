@@ -1,0 +1,7 @@
+command
+delay 5
+takeoff
+delay 5
+curve -35 35 0 -30 45 0 50
+delay 5
+land
