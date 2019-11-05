@@ -1,4 +1,4 @@
-# tello_drone
+# tello_drone py 37
 modules pour drone tello adaptés pour les démos perso et porté en Py 3.7
 
 Github de référence : 
